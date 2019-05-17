@@ -45,6 +45,7 @@ p2 = False
 clicks = 0
 
 
+
 def motion(event):
 	global p1,p2,clicks
 
